@@ -1,0 +1,4 @@
+secrets:
+  prometheus: <path:kv-avp-test-12345#federation>
+  instana: <path:kv-avp-test-12345#instana>
+  teleport: <path:kv-avp-test-12345#authtoken>
